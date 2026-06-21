@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://astral-fi.github.io//sitemap.xml
