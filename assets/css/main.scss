@@ -5,6 +5,15 @@
 @import "minimal-mistakes";
 
 .author__avatar img {
-  max-width: 150px;
+  max-width: 200px;
   border-radius: 0;
+}
+
+.sidebar {
+  width: 200px;
+}
+
+.page {
+  width: calc(100% - 230px);
+  padding-right: 0;
 }

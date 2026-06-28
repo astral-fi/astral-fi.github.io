@@ -14,15 +14,3 @@ My current work includes monocular vision-based obstacle avoidance for mobile ro
 I enjoy building complete systems, from algorithms and simulation to deployment, and am continually exploring problems in visual servoing, SLAM, and perception-driven control. I aspire to pursue research that advances the capabilities of intelligent robots operating in complex, real-world environments.
 
 
-## Education
-**Indraprastha Institute of Information Technology, Delhi**
-B.Tech in Computer Science Engineering | CGPA: 8.7/10.0 | Aug 2024 – Present
-
-
-## Resume
-[Download Resume (PDF)](/assets/resume.pdf)
-
-## Quick Links
-- [Projects](/projects/) — things I've built
-- [Research](/research/) — labs I've worked in
-- [Blog](/blog/) — occasional write-ups
