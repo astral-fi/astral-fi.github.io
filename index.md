@@ -3,21 +3,26 @@ layout: single
 author_profile: true
 ---
 
-## Hi, I'm Ashutosh 👋
+## Hi, I'm Ashutosh 
 
-I'm a B.Tech Computer Science student at **IIIT Delhi**, working at the intersection of **Robotics**, **Computer Vision**, and **Control Theory**.
+I am a Computer Science undergraduate interested in robotics and embodied AI, with a focus on enabling autonomous systems to perceive and navigate the world using efficient visual representations.
 
-I build systems that perceive, reason about, and navigate the physical world — from autonomous drones to XR-based robot testbeds.
+My research interests span computer vision, robot learning, visual navigation, and autonomous systems, particularly under resource and sensing constraints. I am fascinated by how robots can learn representations that support robust perception and control without relying on expensive sensor suites.
 
-## What I'm Working On
+My current work includes monocular vision-based obstacle avoidance for mobile robots, developing a modular testbed for benchmarking vision-based navigation algorithms, and exploring sensor distillation methods for autonomous driving.
 
-- 🤖 **Sim2Real drone navigation** — training deep neural control policies in Gazebo and deploying on Jetson Nano
-- 🌐 **XR Robotics Testbed** — building a 3D digital twin using 3D Gaussian Splatting for robot localization
-- 👁️ **Visual Teach & Repeat** — lightweight vision-based autonomous navigation on embedded hardware
+I enjoy building complete systems, from algorithms and simulation to deployment, and am continually exploring problems in visual servoing, SLAM, and perception-driven control. I aspire to pursue research that advances the capabilities of intelligent robots operating in complex, real-world environments.
+
+
+## Education
+**Indraprastha Institute of Information Technology, Delhi**
+B.Tech in Computer Science Engineering | CGPA: 8.7/10.0 | Aug 2024 – Present
+
+
+## Resume
+[Download Resume (PDF)](/assets/resume.pdf)
 
 ## Quick Links
-
 - [Projects](/projects/) — things I've built
 - [Research](/research/) — labs I've worked in
 - [Blog](/blog/) — occasional write-ups
-- [About](/about/) — more about me + resume
