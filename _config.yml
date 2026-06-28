@@ -44,3 +44,5 @@ defaults:
 # Build
 markdown: kramdown
 permalink: /:categories/:title/
+include:
+  - _pages
