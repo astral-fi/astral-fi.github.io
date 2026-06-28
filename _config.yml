@@ -13,7 +13,8 @@ plugins:
 # Author
 author:
   name: "Ashutosh Bhardwaj"
-  bio: "B.Tech CSE @ IIIT Delhi | Robotics • Computer Vision • Control Theory"
+  avatar: "/assets/images/avatar.jpg"
+  bio: "B.Tech CSE @ IIIT Delhi"
   location: "New Delhi, India"
   links:
     - label: "GitHub"
