@@ -8,8 +8,6 @@ author_profile: true
 
 Welcome to my corner of the internet.
 
-I'm Ashutosh, a CS undergrad at IIIT Delhi working on Robotics, Computer Vision, and Control Theory. This site is where I'll document my projects, research, and occasional thoughts on things I find interesting.
-
 ## What to expect
 
 - Write-ups on research I'm doing — Sim2Real, 3D Gaussian Splatting, visual navigation

@@ -3,13 +3,6 @@ layout: single
 author_profile: true
 ---
 
-## Hi, I'm Ashutosh 
-
----
-layout: single
-author_profile: true
----
-
 ## Hi, I'm Ashutosh
 
 I'm a Computer Science undergraduate fascinated by robotics, specifically, how you get an autonomous system to actually understand and navigate the world around it.
