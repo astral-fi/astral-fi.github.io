@@ -1,0 +1,56 @@
+title: Ashutosh Bhardwaj
+email: ashutosh24135@iiitd.ac.in
+description: "Undergrad researcher at IIIT Delhi working on Robotics, Computer Vision and Control Theory."
+url: "https://astral-fi.github.io"
+
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Author
+author:
+  name: "Ashutosh Bhardwaj"
+  bio: "B.Tech CSE @ IIIT Delhi | Robotics • Computer Vision • Control Theory"
+  location: "New Delhi, India"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/astral-fi"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/ashutosh-bhardwaj"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:ashutosh24135@iiitd.ac.in"
+
+# Navigation
+navigation:
+  - title: "Projects"
+    url: /projects/
+  - title: "Research"
+    url: /research/
+  - title: "Blog"
+    url: /blog/
+  - title: "About"
+    url: /about/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+# Build
+markdown: kramdown
+permalink: /:categories/:title/
