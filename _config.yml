@@ -26,17 +26,6 @@ author:
       icon: "fas fa-fw fa-envelope"
       url: "mailto:ashutosh24135@iiitd.ac.in"
 
-# Navigation
-navigation:
-  - title: "Projects"
-    url: /projects/
-  - title: "Research"
-    url: /research/
-  - title: "Blog"
-    url: /blog/
-  - title: "About"
-    url: /about/
-
 # Defaults
 defaults:
   - scope:
